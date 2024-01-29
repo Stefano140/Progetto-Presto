@@ -1,0 +1,76 @@
+[{
+    "id": 1,
+    "nome": "PS5",
+    "prezzo": 400,
+    "categoria": "Console"
+  }, {
+    "id": 2,
+    "nome": "X-BOX ONE ",
+    "prezzo": 350,
+    "categoria": "Console"
+  }, {
+    "id": 3,
+    "nome": "Nintendo Switch",
+    "prezzo": 200,
+    "categoria": "Console"
+  }, {
+    "id": 4,
+    "nome": "PS4",
+    "prezzo": 150,
+    "categoria": "Console"
+  }, {
+    "id": 5,
+    "nome": "X-BOX S",
+    "prezzo": 250,
+    "categoria": "Console"
+  }, {
+    "id": 6,
+    "nome": "Audi",
+    "prezzo": 13000,
+    "categoria": "Auto"
+  }, {
+    "id": 7,
+    "nome": "BMW",
+    "prezzo": 16000,
+    "categoria": "Auto"
+  }, {
+    "id": 8,
+    "nome": "Mercedes",
+    "prezzo": 24000,
+    "categoria": "Auto"
+  }, {
+    "id": 9,
+    "nome": "Porsche",
+    "prezzo": 35000,
+    "categoria": "Auto"
+  }, {
+    "id": 10,
+    "nome": "FIAT",
+    "prezzo": 9000,
+    "categoria": "Auto"
+  }, {
+    "id": 11,
+    "nome": "Monolocale",
+    "prezzo": 30000,
+    "categoria": "Case"
+  }, {
+    "id": 12,
+    "nome": "Bilocale",
+    "prezzo": 45000,
+    "categoria": "Case"
+  }, {
+    "id": 13,
+    "nome": "Villetta",
+    "prezzo": 250000,
+    "categoria": "Case"
+  }, {
+    "id": 14,
+    "nome": "Casa indipendente",
+    "prezzo": 80000,
+    "categoria": "Case"
+  }, {
+    "id": 15,
+    "nome": "Loft",
+    "prezzo": 70000,
+    "categoria": "Case"
+  }]

@@ -1,0 +1,147 @@
+:root{
+    --colorP: rgb(	30,144,255);
+    --colorS: rgb(245, 255, 250);
+    --colorT: #000000; 
+}
+
+*{
+    font-family: 'Lora', serif;
+}
+
+.font-title{
+    font-family: 'Anton', sans-serif;
+}
+
+.colorP{
+    color: var(--colorP);
+}
+.colorS{
+    color: var(--colorS);
+}
+.colorT{
+    color: var(--colorT);
+}
+
+.bg-P{
+    background-color: var(--colorP);
+}
+
+.bg-T{
+    background-color: var(--colorT);
+}
+
+.widthcard{
+    height: 60px;
+    width: 250px ;
+}
+
+.navbar-brand:hover{
+    color: var(--colorP);
+}
+.vcarousel{
+    width: 100%;
+}
+.imgwid{
+    height:320px;
+    width: 100%;
+}
+
+.h2title{
+    font-size: 60px;
+    margin: 10px 0px 10px 66px;
+
+}
+.transition{
+    transition: 1s;
+}
+.custom{
+    height: 200vh;
+}
+.head{
+    height: 95vh;
+}
+.sectioncontainer{
+    height: 150vh;
+}
+.imgsection{
+    border:3px solid var(--colorP);
+    border-radius: 50%;
+    width: 100%;
+    padding: 5px;
+    
+
+}
+.boxnumbers{
+    background-color: var(--colorP);
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxnumbers > p{
+margin: 0px;
+}
+
+.card:hover > div > img{
+    transform: scale(1.2);
+}
+
+/* .titlemove{
+    display: inline-block;
+    animation: fadetitle 2s;
+}
+ @keyframes fadetitle{
+    0%{
+transform: translateX(-200) ;
+    }
+    100%{
+transform: translateX(0)
+
+    }
+
+ } */
+
+
+.marginnewpage{
+    margin-top: 60px;
+}
+
+/* pagina prodotti */
+.boxfiltri{
+    padding: 0px 20px 0px 20px;
+    position: sticky;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 750px){
+        .navscroll{
+            margin: 20px 200px 20px 200px;
+            border: 2px solid var(--colorP);
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+    }
+}
